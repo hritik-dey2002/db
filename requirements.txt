@@ -64,19 +64,11 @@ PyMySQL==1.1.1
 pyparsing==3.1.2
 PyPDF2==3.0.1
 pypdfium2==4.30.0
-pyperclip==1.8.2
-pypiwin32==223
-PyRect==0.2.0
+
 pyresparser==1.0.6
-pyrsistent==0.20.0
-PyScreeze==0.1.28
-python-dateutil==2.9.0.post0
+
 pyttsx3==2.90
-pytweening==1.0.4
-pytz==2024.1
-pywin32==306
-pyxnat==1.6.2
-rdflib==6.3.2
+
 referencing==0.35.1
 regex==2023.6.3
 requests==2.29.0
@@ -93,11 +85,7 @@ smmap==5.0.1
 sortedcontainers==2.4.0
 soupsieve==2.4.1
 spacy==2.3.5
-spacy-legacy==3.0.12
-spacy-loggers==1.0.5
-SpeechRecognition==3.10.0
-srsly==1.0.7
-srt==3.5.3
+
 stemming==1.0.1
 streamlit==1.36.0
 streamlit-tags==1.2.8
@@ -109,9 +97,4 @@ urllib3==1.26.15
 vosk==0.3.45
 
 websockets==11.0.3
-Werkzeug==2.3.6
-wikipedia==1.4.0
-winshell==0.6
-wrapt==1.16.0
-youtube-dl==2021.12.17
 zipp==3.16.2
