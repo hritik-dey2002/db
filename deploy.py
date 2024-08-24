@@ -3,11 +3,18 @@ import streamlit as st
 
 
 
+# connection = mysql.connector.connect(
+        # host='sql12.freesqldatabase.com',
+        # user='sql12727496',
+        # password='bDAhbMxUy3',
+        # database='sql12727496'
+    # )
+
 connection = mysql.connector.connect(
-        host='sql12.freesqldatabase.com',
-        user='sql12727496',
-        password='bDAhbMxUy3',
-        database='sql12727496'
+        host='localhost',
+        user='root',
+        password='',
+        database='dep'
     )
 cursor = connection.cursor()
 print("Connection successful")
